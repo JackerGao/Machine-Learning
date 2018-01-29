@@ -12,5 +12,6 @@ II. Credit-model goal.
   
 III.Implemention architecture.
    In this section,show the implement architecture of the mchine learnig in credit model. intuitively, the architecture includes three aspects---Data layer, Modeling layer and Output layer. Data layer is the data input of the model, Modeling layer is a training layer for model algorithm and Output layer is the predict results. It's worth noting that data parpared for modeling layer can be multidimensional like users basic information,network information and others. ML algorithm determined by its complexity and accuracy, of course, beyond that the corresponding scenario is need to be considered as well. Many algorithm is compared based on our data, and finally, we choose XGboost. About the Xgboost Algorithm, the paper of Tian Qi can help you understand it. This is reference:https://github.com/dmlc/xgboost.
+   <img src="https://github.com/JackerGao/Machine-Learning/blob/master/image/p1.png" width="150" height="200" alt="Implemet Architecture"/>
    ![image](https://github.com/JackerGao/Machine-Learning/blob/master/image/p1.png)
 IV. 
