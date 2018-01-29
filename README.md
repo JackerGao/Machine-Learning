@@ -20,7 +20,7 @@ III.Implemention architecture.
 
 IV. Simulation results
    
-   In this section, simulations of the model is show. The picture is Credit model based on XGboost and our data. The results indicate that the Credit model can meet business need.
+   In this section, simulations of the model is show. The picture is Credit model based on XGboost and our data. The results indicate that the Credit model can meet business need. Horizontal axis is Recall-rate and vertical axis is Accuracy-rate.
    <div align=center><img width="550" height="350" src="https://github.com/JackerGao/Machine-Learning/blob/master/image/p2.jpg"/></div>
 
 
