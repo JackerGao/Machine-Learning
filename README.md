@@ -10,7 +10,7 @@ I. Practice Background.
   
 II. Credit-model goal.
 
-  Modeling the bid-overdue rate and bid-return rate in special days, obtain Credit models to predict bid-overdue rate and bid-return in given days,such as 7 days or 30 days based on specific requirements.
+  Model the bid-overdue rate and bid-return rate in special days, obtain Credit models to predict bid-overdue rate and bid-return in given days, such as 7 days or 30 days based on specific requirements.
   
 III.Implemention architecture.
 
