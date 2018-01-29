@@ -1,5 +1,6 @@
 # Machine-Learning
 ###Focus on ML Algorithm,DL Algorithm,Community Detection and its Development in Fintech.
+
 ###But in this section, Focus on the application of ML Algorithm in Credit-Model.
 
 I.Practice Background.
@@ -8,6 +9,7 @@ I.Practice Background.
   In this section, use XGBOOST to model the bid-overdue rate and bid-return rate in given days. 
   
 II.Credit-model goal.
+
   Modeling the bid-overdue rate and bid-return rate in special days, obtain Credit models to predict bid-overdue rate and bid-return in given days,such as 7 days or 30 days based on specific requirements.
   
 III.Implemention architecture.
